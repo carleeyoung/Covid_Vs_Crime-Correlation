@@ -51,7 +51,7 @@
 ## Final layout:
 ![webpage image](img/webpage1.PNG)
 ![webpage image](img/map.PNG)
-![webpage image](img/charts.PNG)
+![webpage image](img/charts2.PNG)
 
 
 

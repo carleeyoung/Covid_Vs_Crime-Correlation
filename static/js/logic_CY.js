@@ -52,7 +52,7 @@ d3.json('/data').then(function(data){
         {type: 'bar',
           x: zipcode,
           y: crime,
-          marker: {color: 'green'},
+          marker: {color: 'gold'},
           name: 'Crime Cases'},
 
         {
